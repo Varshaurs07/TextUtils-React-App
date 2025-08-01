@@ -22,7 +22,7 @@ TextUtils is a simple React-based text utility app that allows users to manipula
 - 🌐 HTML/CSS
 
 ## 🚀 Live Demo
-[Click here to view the live app](https://Varshaurs07.github.io/TextUtils-React-app)
+[Click here to view the live app](https://Varshaurs07.github.io/TextUtils-React-App)
 
 ## 🖼️ Screenshots
 
