@@ -29,14 +29,17 @@ TextUtils is a simple React-based text utility app that allows users to manipula
 ### 🔹 Home Page  
 ![Home-Light Mode](./Images/home.png)
 
-### 🔹 Convert to Uppercase  
-![Uppercase](./Images/uppercase.png)
-
 ### 🔹 Alert Message  
 ![Alert](./Images/alert.png)
 
 ### 🔹 Dark Mode Enabled  
 ![Dark Mode](./Images/darkmode.png)
+
+### 🔹 About Page  
+![About](./Images/about.png)
+
+### 🔹 Convert to Uppercase  
+![Uppercase](./Images/uppercase.png)
 
 ### 🔹 Remove Extra Spaces  
 ![Remove Extra Spaces](./Images/removeextra.png)
@@ -47,13 +50,18 @@ TextUtils is a simple React-based text utility app that allows users to manipula
 ### 🔹 Copied to Clipboard  
 ![Copied](./Images/copiedtoclip.png)
 
-### 🔹 Cleared Text  
-![Cleared Text](./Images/clearedtext.png)
-
 ### 🔹 Word & Character Count  
 ![Word Count](./Images/word.png)
 
-### 🔹 About Page  
-![About](./Images/about.png)
+### 🔹 Cleared Text  
+![Cleared Text](./Images/clearedtext.png)
+
+## 📁 How to Run Locally
+
+```bash
+git clone https://github.com/Varshaurs07/TextUtils-React-app.git
+cd TextUtils-React-app
+npm install
+npm start
 
 
