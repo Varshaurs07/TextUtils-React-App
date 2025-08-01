@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TextUtils-React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -54,3 +55,6 @@ git add README.md
 git commit -m "Resolved merge conflict in README.md"
 git pull origin main --allow-unrelated-histories
 git push origin main
+=======
+# TextUtils-React-App
+>>>>>>> 6b2d192566fdf9a0e4493216913603dbe7399019
