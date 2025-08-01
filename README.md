@@ -24,15 +24,6 @@ TextUtils is a simple React-based text utility app that allows users to manipula
 ## 🚀 Live Demo
 [Click here to view the live app](https://Varshaurs07.github.io/TextUtils-React-app)
 
-
-## 📁 How to Run Locally
-
-```bash
-git clone https://github.com/Varshaurs07/TextUtils-React-app.git
-cd TextUtils-React-app
-npm install
-npm start
-
 ## 🖼️ Screenshots
 
 ### 🔹 Home Page  
