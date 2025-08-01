@@ -39,7 +39,7 @@ TextUtils is a simple React-based text utility app that allows users to manipula
 ![About](./Images/about.png)
 
 ### 🔹 Convert to Uppercase  
-![Uppercase](./Images/uppercase.png)
+![Uppercase](./Images/Uppercase.png)
 
 ### 🔹 Remove Extra Spaces  
 ![Remove Extra Spaces](./Images/removeextra.png)
@@ -63,5 +63,4 @@ git clone https://github.com/Varshaurs07/TextUtils-React-app.git
 cd TextUtils-React-app
 npm install
 npm start
-
 
