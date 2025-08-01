@@ -8,10 +8,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 //taken from react router dom
 import {
-  BrowserRouter as Router,
+  HashRouter as Router,
   Routes,
   Route,
-  Link
+  Navigate
 } from "react-router-dom";
 
 
@@ -56,10 +56,11 @@ function App() {
       <Alert alert={alert}/>
       <div className="container my-3">
         <Routes>
-          <Route path="/about" element={<About />} />
+          <Route path="/about" element={<About mode={mode}/>} />
           <Route exact path="/" element={<TextForm showAlert = {showAlert} heading="Enter the text to analyze" mode={mode}/>}/>
+          <Route path="*" element={<Navigate to="/" replace />} />
         </Routes>
-      {/*<About/>*/}
+      {/*<About mode={mode}/>*/}
       </div>
       </Router>
     </>
