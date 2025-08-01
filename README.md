@@ -1,60 +1,68 @@
-<<<<<<< HEAD
-# TextUtils-React
+# 📘 TextUtils - React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TextUtils is a simple React-based text utility app that allows users to manipulate and analyze text. It provides features like changing text case, removing extra spaces, copying to clipboard, and viewing text summary. It also supports light, # 📘 TextUtils - React App
 
-## Available Scripts
+## 🚀 Features
 
-In the project directory, you can run:
+- ✅ Convert text to **uppercase**
+- ✅ Convert text to **lowercase**
+- ✅ **Clear** the entire text
+- ✅ **Copy** text to clipboard
+- ✅ **Remove** extra spaces
+- ✅ Display **word & character count**
+- ✅ Preview modified text
+- ✅ Theme modes: Light, Dark, and Green
+- ✅ Responsive and clean UI
 
-### `npm start`
+## 🛠️ Technologies Used
 
-Runs the app in the development mode.  
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- ⚛️ React JS
+- 💄 Bootstrap
+- 💡 JavaScript
+- 🌐 HTML/CSS
 
-The page will reload when you make changes.  
-You may also see any lint errors in the console.
+## 🚀 Live Demo
+[Click here to view the live app](https://Varshaurs07.github.io/TextUtils-React-app)
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.  
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.  
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.  
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc.) right into your project so you have full control over them.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).  
-To learn React, check out the [React documentation](https://reactjs.org/).
-
----
-
-### ℹ️ What to do next:
-
-1. Replace your `README.md` file content with the cleaned version above.
-2. Run the following commands in your terminal:
+## 📁 How to Run Locally
 
 ```bash
-git add README.md
-git commit -m "Resolved merge conflict in README.md"
-git pull origin main --allow-unrelated-histories
-git push origin main
-=======
-# TextUtils-React-App
->>>>>>> 6b2d192566fdf9a0e4493216913603dbe7399019
+git clone https://github.com/Varshaurs07/TextUtils-React-app.git
+cd TextUtils-React-app
+npm install
+npm start
+
+## 🖼️ Screenshots
+
+### 🔹 Home Page  
+![Home-Light Mode](./Images/home.png)
+
+### 🔹 Convert to Uppercase  
+![Uppercase](./Images/uppercase.png)
+
+### 🔹 Alert Message  
+![Alert](./Images/alert.png)
+
+### 🔹 Dark Mode Enabled  
+![Dark Mode](./Images/darkmode.png)
+
+### 🔹 Remove Extra Spaces  
+![Remove Extra Spaces](./Images/removeextra.png)
+
+### 🔹 Convert to Lowercase  
+![Lowercase](./Images/lowercase.png)
+
+### 🔹 Copied to Clipboard  
+![Copied](./Images/copiedtoclip.png)
+
+### 🔹 Cleared Text  
+![Cleared Text](./Images/clearedtext.png)
+
+### 🔹 Word & Character Count  
+![Word Count](./Images/word.png)
+
+### 🔹 About Page  
+![About](./Images/about.png)
+
+
